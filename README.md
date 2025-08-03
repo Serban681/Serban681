@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serban681
-- 👀 I’m interested in web development
-- 🌱 I’m currently working on a school project
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently working on a personal project
 
 <!---
 Serban681/Serban681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
